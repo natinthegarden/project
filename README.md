@@ -16,7 +16,7 @@ Goal of this project is to practice data analysis skills. I chose to read in two
 ## Instructions
 
 - User must set up virtual environment before installing necessary packages. 
-    - User should do `Python3 -m venv venv`, then `sourcevenv/bin/activate`
+    - User should do `Python3 -m venv venv`, then `source/venv/bin/activate`
 - Packages to install: `pip install`: 
     - requests
     - BeautifulSoup
