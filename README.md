@@ -11,9 +11,9 @@
 
 ## Project Overview
 
-Goal of this project is to practice data analysis skills. I chose to read in two Jane Austen novels from project Gutenburg. I then joined them, cleaned them, and performed some calculations on them based on questions of interest!
+Goal of this project is to practice data analysis skills. I chose to read in two data files (two Jane Austen novels) from project Gutenberg. I split them apart by their words, and then joined them, cleaned them, and performed some calculations on them based on questions of interest!
 
-## Instructions
+## Instructions (Requirement: Use a virtual environment and include instructions in my README on how a user should set one up)
 
 - User must set up virtual environment before installing necessary packages. 
     - User should do `Python3 -m venv venv`, then `source/venv/bin/activate`
@@ -28,7 +28,7 @@ Goal of this project is to practice data analysis skills. I chose to read in two
     ## Requirements Included
 
     - Requirement 1: Read TWO data files (JSON, CSV, Excel, etc.)
-    - Requirement 2: Clean data and perform a pandas merge
-    - Requirement 3: 3 matplotlib or seaborn visualizations
+    - Requirement 2: Clean data and perform a merge
+    - Requirement 3: 3 matplotlib visualizations
     - Requirement 4: Use a virtual environment and include instructions in my README on how a user should set one up
     - Requirement 5: Annotate my code with markdown cells
