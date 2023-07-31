@@ -1,6 +1,7 @@
 # Pride and Prejudice and Sense and Sensibility
 ## _Data Analysis for two Jane Austen Novels_
 
+<img src="https://images.unsplash.com/photo-1571057605667-cf9bf7644e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"  width="50%" height="20%">
 
 
 >
@@ -23,6 +24,7 @@ Goal of this project is to practice data analysis skills. I chose to read in two
     - pandas as pd
     - pandasql as ps
     - matplotlib.pyplot as plt
+    - nltk
 
 
     ## Requirements Included
