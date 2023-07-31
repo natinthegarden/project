@@ -14,7 +14,8 @@
 
 Goal of this project is to practice data analysis skills. I chose to read in two data files (two Jane Austen novels) from project Gutenberg. I split them apart by their words, and then joined them, cleaned them, and performed some calculations on them based on questions of interest!
 
-## Instructions (Requirement: Use a virtual environment and include instructions in my README on how a user should set one up)
+## Instructions 
+### *(Requirement: Use a virtual environment and include instructions in my README on how a user should set one up)*
 
 - User must set up virtual environment before installing necessary packages. 
     - User should do `Python3 -m venv venv`, then `source/venv/bin/activate`
